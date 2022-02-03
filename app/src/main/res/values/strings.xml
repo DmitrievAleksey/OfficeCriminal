@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">OfficeCriminal</string>
+    <string name="new_crime">Преступление</string>
+    <string name="text_empty_list">Список пуст</string>
+    <string name="button_add">Добавить</string>
+    <string name="crime_title">Заголовок преступления</string>
+    <string name="crime_date">Дата преступления</string>
+    <string name="police_button">Полиция</string>
+    <string name="crime_title_label">Заголовок</string>
+    <string name="crime_title_hint">Введите заголовок преступления</string>
+    <string name="crime_details_label">Описание</string>
+    <string name="crime_solved_label">Закрыто</string>
+    <string name="dateLabel">Дата :</string>
+    <string name="timeLabel">Время :</string>
+    <string name="call_of_police">Полиция</string>
+    <string name="choose_suspect">Выбрать подозреваемого</string>
+    <string name="send_report_text">Отправить отчет</string>
+    <string name="crime_report">%1$s!
+        Преступление было обнаружено на %2$s. %3$s, и %4$s
+    </string>
+    <string name="crime_report_solved">Проблема устранена</string>
+    <string name="crime_report_unsolved">Проблема не решена</string>
+    <string name="crime_report_suspect">подозреваемое лицо %s.</string>
+    <string name="crime_report_no_suspect">там нет подозреваемых.</string>
+    <string name="crime_report_subject">Офисный Криминал: Отчет о Преступлении</string>
+    <string name="send_report">Отправить отчет</string>
+    <string name="crime_phone">Телефонный звонок</string>
+    <string name="permission_required">Доступ к контактам необходим для
+        отображения данных адресной книги</string>
+    <string name="ok">OK</string>
+</resources>
